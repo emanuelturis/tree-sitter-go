@@ -208,7 +208,7 @@
   name: (field_identifier) @variable.member)
 
 ; Comments
-(comment) @comment @spell
+(comment) @comment
 
 ; Doc Comments
 (source_file
